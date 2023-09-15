@@ -22,8 +22,8 @@ say(`Whatsapp Bot MD by Shirokami Ryzen`, { font: 'console', align: 'center', gr
 
 console.log(`
 Nao Bot V5
-Author: Shirokami Ryzen
-WA    : +6285174269046
+Author: DamzzBYG
+WA    : +6283867228380
 Base  : BochilTeam
 `)
 
