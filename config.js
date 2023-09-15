@@ -32,23 +32,23 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['6283867228380', 'DamzzBYG', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '6285707101183'
+global.nomorown = '6283867228380'
 global.nomorwa = '0'
 
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'ShirokamiRyzen'
+global.author = 'Damzz'
 global.namebot = 'Nao-Botz V5'
-global.wm = '© NaoBotz By ShirokamiRyzen'
+global.wm = '© NaoBotz By Damzz'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-Bot\n+6285864034767`
+global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/Dmr255\n\nNao-Bot\n+6283867228380`
 global.stickauth = `© NaoBotz By ShirokamiRyzen`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
@@ -63,18 +63,18 @@ global.lynk = ''
 
 //*============= SOSMED =============*/
 global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen' //github
+global.sgh = 'https://github.com/Dmr255' //github
 global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.instagram.com/ryzen_vermillion'
+global.snh = 'https://www.instagram.com/damarjati_25'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
+global.pdana = '083867228380'
 global.povo = '-'
-global.pgopay = '085174269046'
+global.pgopay = '083867228380'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
+global.ppulsa = '083867228380'
+global.ppulsa2 = '6285707101183'
 global.psaweria = '-'
 
 
@@ -190,7 +190,7 @@ global.rpg = {
 
 
 /*============= WEB API KEY =============*/
-global.openai = 'YOUR_APIKEY_HERE'  //api key bisa didapatkan dari https://openai.com/api/
+global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
 global.org = 'YOUR_APIKEY_HERE'  //openAI Organization name
 global.lolkey = 'SGWN' //buy API at https://api.lolhuman.xyz
 global.uptime = 'u1931038-1f70a77eef5964be82e7d606' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
